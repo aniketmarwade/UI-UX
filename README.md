@@ -7,4 +7,3 @@ This tutorial is basically for css and it is assumed that you know html.
 <b>file:-introduction.html</b>
 <p>[internal css used to give bg color and text alignment]</p>
 
-
